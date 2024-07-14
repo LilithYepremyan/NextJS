@@ -1,0 +1,72 @@
+[
+  {
+    "id": 101,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 14,
+    "photo": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg"
+  },
+  {
+    "id": 102,
+    "title": "1984",
+    "author": "George Orwell",
+    "price": 9,
+    "photo": "https://m.media-amazon.com/images/I/61NAx5pd6XL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 103,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "price": 12,
+    "photo": "https://inewsnetwork.net/wp-content/uploads/2021/11/Screen-Shot-2021-11-16-at-1.48.23-PM.png"
+  },
+  {
+    "id": 104,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": 10,
+    "photo": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781524879761/the-great-gatsby-9781524879761_hr.jpg"
+  },
+  {
+    "id": 105,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "price": 11,
+    "photo": "https://m.media-amazon.com/images/I/41QJo8390EL.jpg"
+  },
+  {
+    "id": 106,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "price": 13,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/640px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg"
+  },
+  {
+    "id": 107,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "price": 11,
+    "photo": "https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg"
+  },
+  {
+    "id": 108,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "price": 10,
+    "photo": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781451673319/fahrenheit-451-9781451673319_hr.jpg"
+  },
+  {
+    "id": 109,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "price": 15,
+    "photo": "https://m.media-amazon.com/images/I/71NpZx6bmtL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 110,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "price": 20,
+    "photo": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+  }
+]
