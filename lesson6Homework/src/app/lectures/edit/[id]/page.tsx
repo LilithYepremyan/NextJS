@@ -18,7 +18,10 @@ const page = ({ params }: Props) => {
       <h1 className="is-size-4 mx-6">Edit lecture information</h1>
       <div className="columns mx-5 ">
         <div className="column is-half">
-          <form className="box my-4 " action={handleEditLecture}>
+          <form
+            className="box my-4 "
+            action={handleEditLecture.bind(null, params.id)}
+          >
             <input
               className="input is-primary is-normal my-4 "
               type="text"
