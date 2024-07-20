@@ -1,0 +1,22 @@
+{
+  "node": {
+    "a64cead36f22cc3238d6815035ff656b813c6a0f": {
+      "workers": {
+        "app/courses/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDownloads%5C%5CServer-actions-sql%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-action.tsx%22%2C%5B%22handleAdd%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/courses/add/page": "rsc"
+      }
+    },
+    "c68662e82b7db9f9571d42eb5f85ea00c0344df5": {
+      "workers": {
+        "app/courses/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDownloads%5C%5CServer-actions-sql%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-action.tsx%22%2C%5B%22handleAdd%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/courses/add/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "I0vi3SLD3nZmFdQECAvongswyCCJCaGodCOdzW9DXYU="
+}

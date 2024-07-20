@@ -1,0 +1,38 @@
+{
+  "node": {
+    "0f17d4eeb9b19875d74572abd986d380dc9c0df5": {
+      "workers": {
+        "app/courses/edit/[key]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson6%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/courses/edit/[key]/page": "rsc"
+      }
+    },
+    "12574578ca7e965de7ce83c97158c63ef9852475": {
+      "workers": {
+        "app/courses/edit/[key]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson6%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/courses/edit/[key]/page": "rsc"
+      }
+    },
+    "3dac4d1706e6909b705b2dcd9fdc81668ec3ff2b": {
+      "workers": {
+        "app/courses/edit/[key]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson6%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/courses/edit/[key]/page": "rsc"
+      }
+    },
+    "ffcd265acd9c64fc5cd95d8540889b71648fdc5d": {
+      "workers": {
+        "app/courses/edit/[key]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson6%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/courses/edit/[key]/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "TiY1YflIGj8wz6j1Y+2h76gYLoq2wp/CrRD9gLSbfYQ="
+}
