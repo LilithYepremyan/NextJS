@@ -23,9 +23,6 @@ export const addLecture = (lecture: InputLecture) => {
 };
 
 export const editLecture = (id: number, lecture: InputLecture) => {
-  console.log("Received id:", id);
-  console.log("Received lecture:", lecture);
-
   const { name, surname, salary } = lecture;
 
   db.prepare(
