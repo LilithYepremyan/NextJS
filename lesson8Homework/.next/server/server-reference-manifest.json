@@ -1,0 +1,46 @@
+{
+  "node": {
+    "12e403b584667046a11d5dce88ebec425da63370": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson8Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22handleLogin%22%2C%22handleSignUp%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson8Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22handleLogin%22%2C%22handleSignUp%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "1d9bcb9a08bdbf05133672d41aa1aa027a198603": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson8Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22handleLogin%22%2C%22handleSignUp%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson8Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22handleLogin%22%2C%22handleSignUp%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "705385bb44a4c30d50b575c3043658df363824b1": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson8Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22handleLogin%22%2C%22handleSignUp%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson8Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22handleLogin%22%2C%22handleSignUp%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "977b9feaf28c0e4897d0daba98573419ef7e9912": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson8Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22handleLogin%22%2C%22handleSignUp%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson8Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22handleLogin%22%2C%22handleSignUp%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "ObRTwjZA16c7aI3l5vQU3r5Unxd7NcT4+YBnG7NbpQ8="
+}

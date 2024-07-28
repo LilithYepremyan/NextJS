@@ -23,7 +23,7 @@ export default function Page() {
                 className="input is-primary"
                 name="name"
                 placeholder="enter a name"
-                defaultValue={state?.name}
+                defaultValue={state?.name as string}
               />
             </div>
             <div className="field my-4">
@@ -32,7 +32,7 @@ export default function Page() {
                 className="input is-primary"
                 name="price"
                 placeholder="enter a price"
-                defaultValue={state?.price}
+                defaultValue={state?.price as string}
               />
             </div>
             <div className="field my-4">
@@ -41,7 +41,7 @@ export default function Page() {
                 className="input is-primary"
                 name="duration"
                 placeholder="enter a duration"
-                defaultValue={state?.duration}
+                defaultValue={state?.duration as string}
               />
             </div>
             <div className="field my-4">

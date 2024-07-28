@@ -2,53 +2,65 @@
   "node": {
     "06fa519d2f3c2d2d887a689abd842f7bf27565cc": {
       "workers": {
+        "app/module/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson7Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22handleAddModule%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
         "app/courses/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson7Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22handleAddModule%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
+        "app/module/add/page": "rsc",
         "app/courses/add/page": "action-browser"
       }
     },
     "0b27f3daf7ed243a3c370d89663d7943de184f86": {
       "workers": {
+        "app/module/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson7Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22handleAddModule%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
         "app/courses/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson7Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22handleAddModule%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
+        "app/module/add/page": "rsc",
         "app/courses/add/page": "action-browser"
       }
     },
     "4c1125e80b75d58fcf9651343182a5030ced1b89": {
       "workers": {
+        "app/module/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson7Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22handleAddModule%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
         "app/courses/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson7Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22handleAddModule%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
+        "app/module/add/page": "rsc",
         "app/courses/add/page": "action-browser"
       }
     },
     "db83d60d342f670b08e4e1f8409b85cc194f4ed5": {
       "workers": {
+        "app/module/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson7Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22handleAddModule%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
         "app/courses/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson7Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22handleAddModule%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
+        "app/module/add/page": "rsc",
         "app/courses/add/page": "action-browser"
       }
     },
     "e0aac0cc8320aab23d1c0f29ed656508fb8b7630": {
       "workers": {
+        "app/module/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson7Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22handleAddModule%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
         "app/courses/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson7Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22handleAddModule%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
+        "app/module/add/page": "rsc",
         "app/courses/add/page": "action-browser"
       }
     },
     "efca9917b31a0349c81005b0ca25bb51e85063d2": {
       "workers": {
+        "app/module/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson7Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22handleAddModule%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
         "app/courses/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext_Lessons%5C%5Clesson7Homework%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22handleAddModule%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22handleAdd%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
+        "app/module/add/page": "rsc",
         "app/courses/add/page": "action-browser"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "ZVG/hi/TrE6/Voh/HrpCVQypooAoRmyPGLI2mqUX5cg="
+  "encryptionKey": "gOO9jZtjdf+r8Y+mgVRlR6NsAXl414V89oW0OHDEBlE="
 }
